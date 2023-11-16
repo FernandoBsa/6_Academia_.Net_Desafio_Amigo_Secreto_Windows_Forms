@@ -26,7 +26,7 @@ Repita esse processo para adicionar todos os amigos desejados.
 Após cadastrar os amigos, clique no botão "Sortear Amigo Secreto" para gerar as duplas aleatórias.
 Será solicitado se deseja salvar as duplas geradas em um arquivo CSV chamado "amigoSecreto.csv".
 
--Remoção de Amigos:
+-Remoção de Amigos:*
 O botão "Remover" permite que você exclua um amigo da lista ao selecionar o mesmo.
 
 -Limpar Dados:
