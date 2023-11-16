@@ -17,20 +17,17 @@ O Amigo Secreto é uma aplicação simples em C# usando windows forms que permit
 
 ## Como Usar
 
-- Cadastro de Amigos:
-Preencha os campos "Nome" e "E-mail".
-Clique no botão "Adicionar Amigo" para incluir um novo amigo na lista.
-Repita esse processo para adicionar todos os amigos desejados.
+1. Cadastro de Amigos:
+    - Preencha os campos "Nome" e "E-mail".
+    - Clique no botão "Adicionar" para incluir um novo amigo na lista.
+    - Repita esse processo para adicionar todos os amigos desejados.
 
-- Sorteio do Amigo Secreto e Exportacao para Arquivo CSV:
-Após cadastrar os amigos, clique no botão "Sortear Amigo Secreto" para gerar as duplas aleatórias.
-Será solicitado se deseja salvar as duplas geradas em um arquivo CSV chamado "amigoSecreto.csv".
+2. Sorteio do Amigo Secreto e Exportacao para Arquivo CSV:
+    - Após cadastrar os amigos, clique no botão "Sortear" para gerar as duplas aleatórias.
+    - Será solicitado se deseja salvar as duplas geradas em um arquivo CSV chamado "amigoSecreto.csv".
 
-- Remoção de Amigos:
-O botão "Remover" permite que você exclua um amigo da lista ao selecionar o mesmo.
+3. Remoção de Amigos:
+    - O botão "Remover" permite que você exclua um amigo da lista ao selecionar o mesmo.
 
-- Limpar Dados:
-Utilize o botão "Limpar Tudo" para remover todos os amigos e reiniciar o processo.
-Persistência de Dados
-Os dados dos amigos são armazenados automaticamente no arquivo CSV amigos.csv ao adicionar novos amigos.
-Ao iniciar o aplicativo, os dados existentes no arquivo são carregados automaticamente.
+4. Limpar Dados:
+    - Utilize o botão "Limpar" para remover todos os amigos e reiniciar o processo.
