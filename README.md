@@ -1,8 +1,8 @@
 # 6_Academia_.Net_Desafio_Amigo_Secreto_Windows_Forms
 
-# Amigo Secreto App
+# Amigo Secreto
 
-O Amigo Secreto App é uma aplicação simples em C# que permite aos usuários organizar e gerenciar listas de amigos para eventos de Amigo Secreto. A aplicação utiliza o Windows Forms para uma interface gráfica intuitiva.
+O Amigo Secreto é uma aplicação simples em C# usando windows forms que permite aos usuários organizar e gerenciar listas de amigos para eventos de Amigo Secreto. A aplicação utiliza o Windows Forms para uma interface gráfica intuitiva.
 
 ## Funcionalidades
 
